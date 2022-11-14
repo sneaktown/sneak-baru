@@ -1,0 +1,12 @@
+@media all and(max-width: 768px) {
+    .wrapper{
+width:50%;
+margin-bottom:50px;
+    }
+
+
+}
+
+@media (max-width:500px){
+    
+}
